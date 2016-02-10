@@ -1,0 +1,46 @@
+_repo: A-Treatise-on-Painting_46915
+alternative_title: Trattato della pittura. English
+contributor:
+  commentator:
+    agent_name: Hawkins, John Sidney
+    birthdate: 1758
+    deathdate: 1842
+    gutenberg_agent_id: '44029'
+    url: http://www.gutenberg.org/2009/agents/44029
+  translator:
+    agent_name: Rigaud, J. F. (John Francis)
+    alias: Rigaud, John Francis, 1742-1810
+    birthdate: 1742
+    deathdate: 1810
+    gutenberg_agent_id: '44030'
+    url: http://www.gutenberg.org/2009/agents/44030
+creator:
+  author:
+    agent_name: Leonardo, da Vinci
+    aliases:
+    - Vinci, Leonardo da
+    - Vinci, Léonard de
+    - Da Vinci, Leonardo
+    birthdate: 1452
+    deathdate: 1519
+    gutenberg_agent_id: '1629'
+    url: http://www.gutenberg.org/2009/agents/1629
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Leonardo_da_Vinci
+    - http://en.wikipedia.org/wiki/Leonardo_da_Vinci
+description: ''
+gutenberg_issued: '2014-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drawing -- Technique -- Early works to 1800'
+- !lcsh 'Leonardo, da Vinci, 1452-1519'
+- !lcsh 'Painting -- Technique -- Early works to 1800'
+- !lcc 'ND'
+title: A Treatise on Painting
+url: http://www.gutenberg.org/ebooks/46915
